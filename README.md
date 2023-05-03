@@ -1,4 +1,4 @@
-# Biased Tweets Visualizer
+# Biased Tweets Global Visualizer
 
 Jupyter Notebook files or IPython Notebook files with an .ipynb extension will be rendered as static HTML files. 
 This means that when you open the source file in this directory, you will not be able to view interactive features such as custom JS plots in this repo
