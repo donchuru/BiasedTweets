@@ -7,4 +7,6 @@ This means that when you open the source file in this directory, you will not be
 
 To view the notebook with JavaScript content rendered or to share this file with others, you can use [nbviewer](https://nbviewer.org/)
 
-[Use this link](https://nbviewer.org/github/donchuru/BiasedTweets/blob/main/Biased_Content_Map.ipynb) to view the Biased Content Map notebook with the interactive features rendered
+[Use this link](https://nbviewer.org/github/donchuru/BiasedTweets/blob/main/Biased_Content_Map_Revised.ipynb) to view the Biased Content Map notebook with the interactive features rendered.
+
+To see the old version, [use this link - OLD](https://nbviewer.org/github/donchuru/BiasedTweets/blob/main/Biased_Content_Map.ipynb)
